@@ -39,7 +39,7 @@ This API set mainly focuses on designing and coding high level client-side APIs 
 <h3><a id="user-content-built-with" class="anchor" href="#built-with" aria-hidden="true"></a>Built With</h3>
 <p>This project is mainly built over Python 3.x leveraging object oriented approach for more modularity and code reuse. High-Level APIs are purely Python based and underlying calls are REST-APIs to NDB controller. REST APIs swagger spec is part of this commit. </p>
 <ul>
-<li><a href="https://getbootstrap.com" rel="nofollow">Python 3.x</a></li>
+<li>Python 3.x</li>
 <li>REST API</li>
 </ul>
 <h2><a id="user-content-getting-started" class="anchor" href="#getting-started" aria-hidden="true"></a>Getting Started</h2>
